@@ -36,7 +36,7 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 Pre-Final Year B.Tech in Information Technology @ VIT Vellore</li>
+        <li>🎓 Final Year student of B.Tech in Information Technology @ VIT Vellore</li>
         <li>🚀 Building scalable web applications with a focus on <b>Full Stack Development</b> (Node.js/Express/FastAPI, React/Next.js, Prisma)</li>
         <li>🧠 Exploring <b>Machine Learning</b> and <b>Deep Learning</b> concepts and applications</li>
         <li>☁️ Proactively learning cloud technologies (AWS)</li>
