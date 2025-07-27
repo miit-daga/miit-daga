@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./video.gif" width="300" style="border-radius: 50%; border: 4px solid #4A89DC;" />
+<img src="https://github.com/miit-daga/miit-daga/releases/download/assets-v1.0/Panda_Video_Generation_Complete.1.gif" width="300" style="border-radius: 50%; border: 4px solid #4A89DC;" />
 
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Miit Daga!
 
