@@ -19,7 +19,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Send%20an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://miitdaga.tech" target="_blank">
+  <a href="https://miitdaga.dev" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Visit-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
