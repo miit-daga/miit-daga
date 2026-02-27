@@ -23,7 +23,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Visit-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1kiqfQF5cPjSXrU6ZgsC0t2XLkKZ2wkYO/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1s1R9I9_M97iFpcxYwwsb490K2puJW4r1/view" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/View-Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
