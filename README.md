@@ -36,12 +36,11 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 Final Year student of B.Tech in Information Technology @ VIT Vellore</li>
+        <li>🎓 B.Tech in Information Technology graduate from VIT Vellore</li>
         <li>🚀 Building scalable web applications with a focus on <b>Full Stack Development</b> (Node.js/Express/FastAPI, React/Next.js, Prisma)</li>
         <li>🧠 Exploring <b>Machine Learning</b> and <b>Deep Learning</b> concepts and applications</li>
         <li>☁️ Proactively learning cloud technologies (AWS, GCP)</li>
-        <li>🗣️ Languages: English, हिन्दी, ગુજરાતી, বাংলা, Español</li>
-        <li>🐧 Enthusiastic <b>Arch Linux</b> user</li>
+        <li>🗣️ Languages: English, हिन्दी, ગુજરાતી, বাংলা</li>
       </ul>
     </td>
   </tr>
@@ -90,4 +89,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
 </div>
